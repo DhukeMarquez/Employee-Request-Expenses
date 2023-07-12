@@ -6,7 +6,6 @@ class forms
 	extends JFrame
 	implements ActionListener {
 
-	// Components of the Form
 	private final Container c;
 	private final JLabel title;
 	private final JLabel name;
@@ -51,8 +50,6 @@ class forms
 			"2015", "2016", "2017", "2018",
 			"2019" };
 
-	// constructor, to initialize the components
-	// with default values.
 	public forms()
 	{
 		setTitle("Employee Request Expenses");
