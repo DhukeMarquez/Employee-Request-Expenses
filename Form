@@ -6,7 +6,6 @@ class forms
 	extends JFrame
 	implements ActionListener {
 
-	// Components of the Form
 	private final Container c;
 	private final JLabel title;
 	private final JLabel name;
