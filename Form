@@ -251,7 +251,7 @@ class forms
 	}
 }
 
-class Registration {
+class Success {
 
 	public static void main(String[] args) throws Exception
 	{
